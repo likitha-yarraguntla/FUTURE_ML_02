@@ -162,7 +162,7 @@ FUTURE_ML_02
 
 ## 👨‍💻 Author
 
-**Name:** Anandarao
+**Name:** Likitha
 
 **Machine Learning Internship Task 02**
 
